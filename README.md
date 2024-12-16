@@ -5,10 +5,10 @@ This project is a landing page implementation created as part of The Odin Projec
 ## Description
 
 This landing page showcases fundamental web development skills including:
-- HTML5 semantic markup
-- CSS Flexbox layout
-- Responsive design principles
-- Modern styling techniques
+- Responsive layout that works on desktop and mobile devices
+- Modern design with flexbox-based layouts
+- Clean and semantic HTML structure
+- Custom styling with CSS
 
 ## Setup
 
@@ -29,23 +29,10 @@ cd odin-landing-page
 ```
 odin-landing-page/
 ├── index.html
-├── styles/
-│   └── style.css
-└── images/
+├── style.css
+└── assets/
+   └── images/
 ```
-
-## Features
-
-- Responsive layout that works on desktop and mobile devices
-- Modern design with flexbox-based layouts
-- Clean and semantic HTML structure
-- Custom styling with CSS
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- Flexbox
 
 ## Contributing
 
